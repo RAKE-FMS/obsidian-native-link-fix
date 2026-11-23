@@ -1,0 +1,9 @@
+{
+  "id": "native-markdown-link-fix",
+  "name": "Native Markdown Link Fix",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Repair empty link labels and missing .md extensions after Obsidian's native wikilink autocompletion.",
+  "author": "Local utility",
+  "isDesktopOnly": false
+}
